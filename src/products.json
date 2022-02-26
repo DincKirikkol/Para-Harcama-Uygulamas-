@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Sakız",
+    "price": 0.55,
+    "image": "https://hepsi90lardan.com/wp-content/uploads/2018/03/IMG_3088-2.png"
+  },
+  {
+    "id": 2,
+    "title": "Kola",
+    "price": 3,
+    "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Ayakkabı",
+    "price": 40,
+    "image": "https://www.sportinn.com.tr/img/products/CI0919/colorphotos/CI0919_109.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Araba",
+    "price": 45000,
+    "image": "https://cdn-nq.toyzzshop.com/product/600x600/33ba0_1:18_Bugatti_Chiron_Sport_Model_Araba.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Tekne",
+    "price": 80000000,
+    "image": "https://i.ibb.co/sCbmRKV/Ekran-Resmi-2021-04-16-13-45-31.png"
+  },
+
+  {
+    "id": 6,
+    "title": "iPad Pro",
+    "price": 1700,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Çanta",
+    "price": 1500000,
+    "image": "https://www.flowerayakkabi.com/Uploads/UrunResimleri/buyuk/beyaz-deri-sirt-cantasi-2a20.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Elmas",
+    "price": 157878777,
+    "image": "https://www.bilgiustam.com/resimler/2017/12/10841_elmas-05.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Mona Lisa",
+    "price": 2000000000,
+    "image": "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
+  }
+]
